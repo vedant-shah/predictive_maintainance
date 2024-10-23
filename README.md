@@ -45,7 +45,7 @@ The code is organized to make it easy to maintain, test, and deploy. After train
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/predictive-maintenance.git
+git clone https://github.com/vedant-shah/predictive_maintainance.git
 cd predictive-maintenance
 ```
 
